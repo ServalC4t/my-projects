@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Servala.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2); object-fit: cover;" alt="ServalC4t Avatar">
+  <img src="Servala.jpg" width="500" height="500" style="border-radius: 50%; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2); object-fit: cover;" alt="ServalC4t Avatar">
 </div>
 </div># Software Showcase
 
