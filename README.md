@@ -1,5 +1,7 @@
+```markdown
 <div align="center">
-  <img src="Servala.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="ServalC4t Avatar">
+  <img src="sarvala.jpg" ... >
+</div>
 </div># Software Showcase
 
 Welcome to my project site! Here, I share the tools and software I've developed.
