@@ -1,6 +1,6 @@
 ```markdown
 <div align="center">
-  <img src="sarvala.jpg" ... >
+  <img src="Servala.jpg" ... >
 </div>
 </div># Software Showcase
 
