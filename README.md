@@ -2,6 +2,7 @@
 <div align="center">
   <img src="Servala.jpg" ... >
 </div>
+
 </div># Software Showcase
 
 Welcome to my project site! Here, I share the tools and software I've developed.
