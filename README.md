@@ -13,7 +13,7 @@ Welcome to my project site! I develop tools to optimize daily workflows and digi
 
 ## 🚀 Projects
 
-### **RC2S (Right-Click to Share)**
+### **Right-Click to Share**
 > **"Share files instantly, directly from your shell."**
 
 A Windows shell extension that makes sharing files faster and easier via the context menu.
