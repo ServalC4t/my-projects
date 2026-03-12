@@ -1,7 +1,8 @@
 <div align="center">
   <img src="Servala.jpg" width="350" height="350" style="border-radius: 50%; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2); object-fit: cover;" alt="ServalC4t Avatar">
 </div>
-</div># Software Showcase
+</div>
+# Software Showcase
 
 Welcome to my project site! Here, I share the tools and software I've developed.
 
