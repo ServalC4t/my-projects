@@ -27,3 +27,5 @@ A Windows shell extension that makes sharing files faster and easier via the con
 ## 📬 Contact
 
 Follow me on [GitHub](https://github.com/ServalC4t) for updates!
+
+☕ [Support me on Ko-fi](https://ko-fi.com/servalc4t)
