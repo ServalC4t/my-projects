@@ -9,6 +9,7 @@
 </div>
 
 🚀 Projects
+
 🎬 ClipX
 "The fastest way to share your best moments."
 
