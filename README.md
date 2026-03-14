@@ -13,9 +13,9 @@ Welcome to my project site! I develop tools to optimize daily workflows and digi
 
 ClipX
 
-"Fastest way to share your hunt."
+"The fastest way to share your best moments."
 
-An X (Twitter) specialized video editor designed for gamers. Optimized for creating high-quality highlight clips from titles like Monster Hunter Wilds.
+An X (Twitter) specialized video editor designed for gamers. Optimized for creating high-quality highlight clips with minimal effort.
 
 Status: ✅ Released
 
@@ -29,7 +29,7 @@ Hardware Acceleration: GPU-powered (NVENC/AMF/QSV) lightning-fast export.
 
 Intuitive Workflow: Drag-and-drop merging & clip reordering.
 
-Social Optimized: 16:9 stretch and customizable text overlays.
+Social Optimized: Aspect ratio adjustments and customizable text overlays.
 
 Download: Latest Release
 
