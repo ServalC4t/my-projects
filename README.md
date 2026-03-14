@@ -17,7 +17,7 @@ ClipX
 
 An X (Twitter) specialized video editor designed for gamers. Optimized for creating high-quality highlight clips with minimal effort.
 
-Status: ✅ Released
+Status: ⚠️ Pre-release (v0.1.0)
 
 Platform: Windows 10 / 11
 
