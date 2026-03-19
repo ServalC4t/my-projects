@@ -31,7 +31,7 @@ An X (Twitter) specialized video editor designed for gamers. Optimized for creat
 📱 Social Optimized: Aspect ratio adjustments and custom text overlays.
 
 <div align="center">
-<a href="https://github.com/ServalC4t/ClipX/releases/latest" style="background-color: #2ea44f; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">🚀 Download ClipX v0.1.0</a>
+<a href="https://github.com/ServalC4t/ClipX/releases/latest" style="background-color: #2ea44f; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">🚀 Download ClipX v1.1.0</a>
 </div>
 
 🖱️ Right-Click to Share
