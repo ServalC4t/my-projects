@@ -18,7 +18,7 @@
 
 An X (Twitter) specialized video editor designed for gamers. Optimized for creating high-quality highlight clips with minimal effort.
 
-⚠️ Status: Pre-release (v0.1.0)
+✅ Status: Released (v1.1.0)
 
 💻 Platform: Windows 10 / 11
 
