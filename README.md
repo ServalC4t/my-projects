@@ -6,13 +6,12 @@
 <p align="center">
 <i>Optimizing daily workflows and digital efficiency with specialized tools.</i>
 
-
-
 <img src="https://img.shields.io/badge/Status-Active_Development-brightgreen?style=for-the-badge" alt="Status">
 <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Platform">
 </p>
 
 🚀 Projects
+
 🎬 ClipX
 "The fastest way to share your best moments."
 
@@ -51,6 +50,25 @@ A Windows shell extension that makes sharing files faster and easier via the con
 
 <div align="center">
 <a href="https://github.com/ServalC4t/Right-Click-to-Share/releases/latest" style="background-color: #0078d4; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">📥 Download Latest Release</a>
+</div>
+
+🎮 DualMice
+"Browse while Fullscreen Gaming."
+
+A Windows utility that allows you to control a web browser with a second mouse, completely independent of your primary Windows cursor.
+
+✅ Status: Released (v1.0.0)
+
+💻 Platform: Windows 10 / 11
+
+🖱 Independent Cursor: Navigate Google Chrome without alt-tabbing or losing game focus.
+
+✨ Customization: Adjust sensitivity, cursor size, opacity, and custom images.
+
+⌨️ Keyboard Mode: Type into the browser directly from your game stream.
+
+<div align="center">
+<a href="https://github.com/ServalC4t/WMonitor/releases/latest" style="background-color: #6e5494; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">🚀 Download DualMice v1.0.0</a>
 </div>
 
 📬 Contact
