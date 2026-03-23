@@ -49,7 +49,7 @@ A Windows shell extension that makes sharing files faster and easier via the con
 📦 Multi-file Support: Handles multiple files simultaneously.
 
 <div align="center">
-<a href="https://github.com/ServalC4t/Right-Click-to-Share/releases/latest" style="background-color: #0078d4; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">📥 Download Latest Release</a>
+<a href="https://github.com/ServalC4t/Right-Click-to-Share/releases/latest" style="background-color: #0078d4; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">📥 Download Right-Click to Share</a>
 </div>
 
 🎮 DualMice
