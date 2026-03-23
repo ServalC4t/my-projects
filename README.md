@@ -25,7 +25,7 @@ An X (Twitter) specialized video editor designed for gamers. Optimized for creat
 📱 Social Optimized: Aspect ratio adjustments and custom text overlays.
 
 <div align="center">
-<a href="https://github.com/ServalC4t/ClipX/releases/latest" style="background-color: #2ea44f; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">🚀 Download ClipX v1.1.0</a>
+<a href="https://github.com/ServalC4t/ClipX/" style="background-color: #2ea44f; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">🚀 Download ClipX v1.1.0</a>
 </div>
 
 🖱️ Right-Click to Share
@@ -44,7 +44,7 @@ A Windows shell extension that makes sharing files faster and easier via the con
 📦 Multi-file Support: Handles multiple files simultaneously.
 
 <div align="center">
-<a href="https://github.com/ServalC4t/Right-Click-to-Share/releases/latest" style="background-color: #0078d4; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">📥 Download Right-Click to Share</a>
+<a href="https://github.com/ServalC4t/Right-Click-to-Share" style="background-color: #0078d4; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">📥 Download Right-Click to Share</a>
 </div>
 
 🎮 DualMice
@@ -63,7 +63,7 @@ A Windows utility that allows you to control a web browser with a second mouse, 
 ⌨️ Keyboard Mode: Type into the browser directly from your game stream.
 
 <div align="center">
-<a href="https://github.com/ServalC4t/WMonitor/releases/latest" style="background-color: #6e5494; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">🚀 Download DualMice v1.0.0</a>
+<a href="https://github.com/ServalC4t/DualMice" style="background-color: #6e5494; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">🚀 Download DualMice v1.0.0</a>
 </div>
 
 📬 Contact
