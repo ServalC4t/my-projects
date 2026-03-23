@@ -3,9 +3,6 @@
 <img src="https://github.com/ServalC4t.png" width="160" height="160" style="border-radius: 50%; border: 5px solid white; box-shadow: 0 4px 15px rgba(0,0,0,0.3); object-fit: cover;" alt="ServalC4t Avatar">
 </div>
 
-
-<img src="https://img.shields.io/badge/Status-Active_Development-brightgreen?style=for-the-badge" alt="Status">
-<img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Platform">
 </p>
 
 🚀 Projects
