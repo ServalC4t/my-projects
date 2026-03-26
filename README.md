@@ -104,6 +104,14 @@ A Windows utility that allows you to control a web browser with a second mouse, 
 Follow me on GitHub for updates!
 
 <div align="center">
+<img src="https://github.com/ServalC4t.png" width="160" height="160" style="border-radius: 50%; border: 5px solid white; box-shadow: 0 4px 15px rgba(0,0,0,0.3); object-fit: cover;" alt="ServalC4t Avatar">
+
+### 🚀 Building tools to make your Windows life easier.
+**If my work helps you, please consider supporting the development!**
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ServalC4t)
+</div>
+<div align="center">
 <a href="https://ko-fi.com/servalc4t">
 <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="36" style="border:0px;height:36px;" alt="Support me on Ko-fi">
 </a>
