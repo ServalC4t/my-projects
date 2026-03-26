@@ -4,6 +4,18 @@
 </div>
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ServalC4t)[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ServalC4t)[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ServalC4t)[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ServalC4t)[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ServalC4t)[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ServalC4t)[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ServalC4t)[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ServalC4t)
 
+---
+
+## 📋 Quick Navigation
+
+| App | Description | Platform |
+|-----|-------------|----------|
+| [🎬 ClipX](#-clipx) | X (Twitter) specialized video editor for gamers | Windows |
+| [🎥 EZ265](#-ez265) | One-click H.265 batch video converter with GPU acceleration | Windows |
+| [🖱️ Right-Click to Share](#️-right-click-to-share) | Share files instantly from the Explorer context menu | Windows |
+| [🎮 DualMice](#-dualmice) | Control a browser with a second mouse while fullscreen gaming | Windows |
+
+---
 
 🚀 Projects
 
@@ -26,6 +38,27 @@ An X (Twitter) specialized video editor designed for gamers. Optimized for creat
 
 <div align="center">
 <a href="https://github.com/ServalC4t/ClipX/" style="background-color: #2ea44f; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">🚀 Download ClipX v1.1.0</a>
+</div>
+
+🎥 EZ265
+"One click to compress. Zero quality compromise."
+
+A lightweight H.265 (HEVC) batch video converter for Windows. Drag & drop your videos, adjust the compression rate, and hit Start — output files are saved to an `EZ265/` subfolder so originals are never touched.
+
+✅ Status: Released (v1.0.0)
+
+💻 Platform: Windows 10 / 11
+
+⚡ GPU Acceleration: NVIDIA NVENC auto-detected, CPU (x265) fallback.
+
+📊 Adjustable Compression: Slider from 10% to 90% — preview estimated savings before encoding.
+
+🖱 Explorer Integration: Right-click context menu with "Add to EZ265" / "Add & Start".
+
+🌐 Bilingual UI: Japanese & English (auto-detected from OS).
+
+<div align="center">
+<a href="https://github.com/ServalC4t/EZ265/" style="background-color: #76B900; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">🚀 Download EZ265 v1.0.0</a>
 </div>
 
 🖱️ Right-Click to Share
